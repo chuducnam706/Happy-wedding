@@ -1,0 +1,30 @@
+[
+  {
+    "id": "w-1792147823268",
+    "senderName": "Bạn Thân",
+    "relationship": "Bạn Chú Rể",
+    "message": "Chúc hai bạn hạnh phúc trọn đời!",
+    "createdAt": "Vừa xong"
+  },
+  {
+    "id": "w-1",
+    "senderName": "Bác Thành & Gia đình",
+    "relationship": "Họ hàng nhà trai",
+    "message": "Chúc hai cháu Quốc Huy và Ngọc Lan trăm năm hạnh phúc, đầu bạc răng long, con đàn cháu đống!",
+    "createdAt": "Vừa xong"
+  },
+  {
+    "id": "w-2",
+    "senderName": "Hội bạn thân Đại học",
+    "relationship": "Bạn chú rể",
+    "message": "Chúc mừng anh bạn thân chính thức rời hội độc thân! Chúc đôi bạn trẻ luôn yêu thương, nhường nhịn và đồng lòng cùng nhau nhé!",
+    "createdAt": "15 phút trước"
+  },
+  {
+    "id": "w-3",
+    "senderName": "Chị Mai Linh",
+    "relationship": "Đồng nghiệp cô dâu",
+    "message": "Cô dâu của chị hôm nay đẹp rạng ngời! Chúc hai em có một tổ ấm ngập tràn tiếng cười và tài lộc dồi dào!",
+    "createdAt": "1 giờ trước"
+  }
+]

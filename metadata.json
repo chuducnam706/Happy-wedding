@@ -1,0 +1,6 @@
+{
+  "name": "Thiệp Cưới Online - Huy & Lan",
+  "description": "Website thiệp cưới online phong cách Zenlove sang trọng, tinh tế cho cặp đôi Quốc Huy & Ngọc Lan. Tích hợp album ảnh, RSVP, bản đồ chỉ đường và mừng cưới online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
